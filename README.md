@@ -9,6 +9,7 @@
 - [Express] - Node JS Web Application Framwork.
 - [Axios] - Http Request
 - [Jest] - Unit Testing
+- [RabbitMQ] - Message Broker
 
 ## Installation & How To Use
 ```sh
